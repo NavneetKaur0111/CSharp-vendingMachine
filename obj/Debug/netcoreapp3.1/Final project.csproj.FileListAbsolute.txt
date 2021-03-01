@@ -1,0 +1,13 @@
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\bin\Debug\netcoreapp3.1\Final project.exe
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\bin\Debug\netcoreapp3.1\Final project.deps.json
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\bin\Debug\netcoreapp3.1\Final project.runtimeconfig.json
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\bin\Debug\netcoreapp3.1\Final project.runtimeconfig.dev.json
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\bin\Debug\netcoreapp3.1\Final project.dll
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\bin\Debug\netcoreapp3.1\Final project.pdb
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.csprojAssemblyReference.cache
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.AssemblyInfoInputs.cache
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.AssemblyInfo.cs
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.csproj.CoreCompileInputs.cache
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.dll
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.pdb
+C:\Users\Navneet\OneDrive\Documents\MITT\backend\dataset and algorithms\Final project\obj\Debug\netcoreapp3.1\Final project.genruntimeconfig.cache
